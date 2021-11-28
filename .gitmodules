@@ -1,0 +1,4 @@
+[submodule "conftest"]
+	path = conftest
+	url = https://aur.archlinux.org/conftest.git
+	branch = master
